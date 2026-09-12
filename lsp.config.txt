@@ -1,5 +1,5 @@
 {
-  "status":"enable",
+  "status":"display",
   "message":"再看，把你鸡鸡剁了",
   "version":1.0
 }
