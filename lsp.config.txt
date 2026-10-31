@@ -1,5 +1,5 @@
 {
-  "status":"disaple",
+  "status":"disable",
   "message":"再看，把你鸡鸡剁了",
   "version":2.0
 }
