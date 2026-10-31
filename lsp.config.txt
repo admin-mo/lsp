@@ -1,5 +1,5 @@
 {
-  "status":"enable",
-  "message":"再看，把你鸡鸡剁了",
+  "status":"disable",
+  "message":"主程序多个接口崩溃，请修复",
   "version":2.0
 }
